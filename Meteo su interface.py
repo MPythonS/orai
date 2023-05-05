@@ -37,4 +37,4 @@ rezultatas = tk.Label(window)
 rezultatas.grid(row=2, column=0, columnspan=2, padx=5, pady=5)
 
 window.mainloop()
-
+# fghfghfghfh
