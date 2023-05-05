@@ -2,7 +2,7 @@ import tkinter as tk
 from bs4 import BeautifulSoup
 import requests
 
-miestai = ['Vilnius', 'Kaunas', 'Klaipeda', 'Siauliai', 'Alytus', 'Druskininkai']
+miestai = ['Vilnius', 'Kaunas', 'Klaipeda', 'Siauliai', 'Alytus', 'Druskininkai', 'Panevezys']
 
 window = tk.Tk()
 # Etiketė drop listui
